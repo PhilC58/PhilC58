@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PhilC58
-- 👀 I’m interested in music, photography, henerative AI
+- 👀 I’m interested in music, photography, generative AI
 - 🌱 I’m currently learning Stable Diffusion and DJing with stems in Ableton Live
 
 <!---
